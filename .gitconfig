@@ -1,0 +1,7 @@
+[alias]
+  stat = status
+  com = commit
+  hist = log --pretty=format:\"%h%x09%an%x09%ad%x09%s\"
+  co = checkout
+[user]
+  email = ianconery@gmail.com

@@ -1,0 +1,21 @@
+{
+  "auto_complete_commit_on_tab": true,
+  "caret_style": "smooth",
+  "color_scheme": "Packages/Predawn/predawn.tmTheme",
+  "ensure_newline_at_eof_on_save": false,
+  "font_size": 9,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "predawn_findreplace_small": true,
+  "predawn_tabs_active_underline": true,
+  "predawn_tabs_medium": true,
+  "save_on_focus_lost": true,
+  "show_definitions": false,
+  "tab_size": 2,
+  "theme": "predawn-DEV.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "word_wrap": true
+}
