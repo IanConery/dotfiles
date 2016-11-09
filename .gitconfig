@@ -3,5 +3,9 @@
   com = commit
   hist = log --pretty=format:\"%h%x09%an%x09%ad%x09%s\"
   co = checkout
+  pullrb = pull --rebase
+  br = branch
+  graph = log --graph --decorate --pretty=oneline --abbrev-commit
 [user]
+  name = Ian Conery
   email = ianconery@gmail.com
